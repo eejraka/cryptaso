@@ -1,0 +1,11 @@
+.row{
+    background-color: #16171a;
+    cursor: pointer;
+    font-family: 'Work Sans';
+    color: #E7AB79;
+    transition: all .2s linear;
+}
+.row:hover{
+    background-color: #774360;
+}
+
